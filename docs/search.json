@@ -11,10 +11,10 @@
     {
       "path": "index.html",
       "title": "Marbotte's website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "Personal website to publish some info about my projects in biodiversity and bioinformatics, and occasionally other stuffs!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2023-10-14T12:20:34-05:00"
+      "contents": "\nI am Marius Bottin, a French ecologist living in Bogotá, Colombia.\nI am an independent researcher and I work mainly in biodiversity database management and biodiversity analyses.\nThis website is very new, but I will try to give it some structure over time, the idea is to publish some information about my work and the projects I participate to.\n\n\n\n",
+      "last_modified": "2023-10-14T12:42:19-05:00"
     }
   ],
   "collections": []
