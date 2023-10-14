@@ -1,7 +1,7 @@
 ---
 title: "Marbotte's website"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Personal website to publish some info about my projects in biodiversity and bioinformatics, and occasionally other stuffs!
 site: distill::distill_website
 ---
 
@@ -16,3 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+I am Marius Bottin, a French ecologist living in Bogotá, Colombia.
+I am an independent researcher and I work mainly in biodiversity database management and biodiversity analyses.
+
+This website is very new, but I will try to give it some structure over time, the idea is to publish some information about my work and the projects I participate to.
